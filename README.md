@@ -2,7 +2,7 @@
 
 alert_bot.py -  script to sent an alert to a telegram bot. Can take a text argument or a file.
 
-flights.py - script to read aircraft from a dump1090 instance and alert on callsign/squawk/type, I can't remember where i got this from to give proper credit :(
+flights.py - edited script to read aircraft from a dump1090 instance and alert on callsign/squawk/type - I can't remember where i got this from to give proper credit :(
 
 onstartup.sh - Checks that connections between two dump1090 instances are open.
 
